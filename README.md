@@ -35,7 +35,8 @@ bundle install
 ./bin/rails s
 ```
 
-## Ember app, remember the ember app is inside app/frontend directory. All following commands should be executed inside app/frontend directory!
+## Ember app
+Remember the ember app is inside app/frontend directory. All following commands should be executed inside app/frontend directory!
 
 ### Installing dependencies
 ```console
