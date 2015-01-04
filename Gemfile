@@ -8,7 +8,7 @@ gem 'sass-rails', '5.0.1'
 gem 'uglifier', '2.6.1'
 gem 'jquery-rails', '4.0.3'
 gem 'ember-cli-rails', '0.0.14'
-gem 'active_model_serializers', '0.9.2'
+gem 'active_model_serializers', '0.8.3'
 
 group :test do
   gem 'database_cleaner', '1.3.0'
